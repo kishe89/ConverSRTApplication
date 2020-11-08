@@ -1,0 +1,17 @@
+{
+  "name": "convertsrtapplication",
+  "version": "0.0.0",
+  "description": "구글 SRT 를 구글 번역기에 번역 후 올바른 텍스트로 변환 스크립트",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "SRT",
+    "Translation",
+    "google",
+    "electron"
+  ],
+  "author": "kihse89@naver.com",
+  "license": "MIT"
+}
