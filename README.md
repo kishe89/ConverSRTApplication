@@ -9,7 +9,7 @@
 유튜브 자막 파일을 구글 번역기로 번역시 오번역 하는 부분에 대한 올바른 포맷으로의 수정을 목표로 한다.
 
 
-#LICENSE
+# LICENSE
 
 Copyright 2020 kishe89@naver.com
 
